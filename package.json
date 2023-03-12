@@ -2,8 +2,13 @@
   "name": "sync-with-active-document-action",
   "displayName": "Sync with Active Document action",
   "description": "Adds 'Sync with Active Document' action button like in Visual Studio",
-  "version": "1.0.0",
-  "icon": "/src/assets/icons/sync-icon.png",
+  "version": "1.0.1",
+  "icon": "src/assets/icons/sync-icon.png",
+  "publisher": "sataris",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SatarisGIT/VSC-Extension-Sync-with-Active-Document-action"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -18,8 +23,8 @@
         "command": "sync-with-active-document-action.sync",
         "title": "Sync with Active Document",
         "icon": {
-          "light": "/src/assets/icons/sync-icon.png",
-          "dark": "/src/assets/icons/sync-icon.png"
+          "light": "src/assets/icons/sync-icon.png",
+          "dark": "src/assets/icons/sync-icon.png"
         }
       }
     ],

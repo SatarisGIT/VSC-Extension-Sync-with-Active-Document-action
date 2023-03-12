@@ -7,7 +7,7 @@ Adds 'Sync with Active Document' action button like in Visual Studio
 Migrate action button from Visual Studio to Visual Studio Code when you're using
 `"explorer.autoReveal": false` setting
 
-![Sync feature](src/assets/images/vs-to-vsc.png "Sync feature")
+![Sync feature](https://raw.githubusercontent.com/SatarisGIT/VSC-Extension-Sync-with-Active-Document-action/main/src/assets/images/vs-to-vsc.png "Sync feature")
 
 It will be useful if you don't want `Visual Studio Code` to automatically syncing actually opened document with explorer location of this file.
 
